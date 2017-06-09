@@ -1,1 +1,3 @@
 # negociacoes
+
+Arquivo informativo.
