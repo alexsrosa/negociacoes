@@ -1,3 +1,3 @@
-# negociacoes
+# Negotiations-JS
 
-Arquivo informativo.
+Testing system for negotiation manipulation.
